@@ -53,7 +53,6 @@ chmod 777 aws_create_vpc.sh
 ```
 
 **Result:** VPC and Subnet were created successfully with name tags applied.
-<img width="734" height="76" alt="script-create-op" src="https://github.com/user-attachments/assets/3f945986-f5e8-42d7-8fe3-15fd57356dbd" />
 <img width="959" height="68" alt="script-op" src="https://github.com/user-attachments/assets/e559872e-93ff-4162-855f-42f4919dcfc3" />
  ## AWS Console - VPC
  <img width="957" height="342" alt="vpc-aws-console" src="https://github.com/user-attachments/assets/8dcbf89b-8113-4354-9f3d-bcb442b3731a" />
@@ -87,6 +86,9 @@ The script was refactored to accept runtime command-line arguments (`create` / `
 <img width="859" height="205" alt="subnet-deleted" src="https://github.com/user-attachments/assets/ef60ea75-7ba1-4ce7-9113-a9d0ffc41b18" />
 
 <img width="950" height="292" alt="vpc-deleted" src="https://github.com/user-attachments/assets/03a130b9-dcde-4cbe-9a1f-d523b433aae2" />
+### create 
+<img width="734" height="76" alt="script-create-op" src="https://github.com/user-attachments/assets/3f945986-f5e8-42d7-8fe3-15fd57356dbd" />
+<img width="841" height="269" alt="subnet-created" src="https://github.com/user-attachments/assets/385e4ec8-f758-4457-8f41-61074cfcf4b3" />
 
 
 ---
